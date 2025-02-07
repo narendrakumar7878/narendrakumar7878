@@ -6,13 +6,14 @@
 - 🌱 I’m currently learning React and Node.js.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about Web Development and Programming.
-- 📫 How to reach me: [Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 📫 How to reach me: [Email](narendraprajapat4455@gmai.com) | [LinkedIn](www.linkedin.com/in/narendrakumar-174116313)
+
 
 ### Skills:
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Node.js, Express
 - **Database:** MongoDB, MySQL
-- **Tools:** Git, VS Code, Postman
+- **Tools:** Git, VS Code, hopstkoch
 
 ### Projects:
 - [Airbnb Clone](https://github.com/narendrakumar7878/AirbnbClone) - A full-stack Airbnb clone project.
