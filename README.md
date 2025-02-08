@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning React and Node.js.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about Web Development and Programming.
-- 📫 How to reach me: [Email](narendraprajapat4455@gmail.com.com) | [LinkedIn](www.linkedin.com/in/narendrakumar-174116313)
+- 📫 How to reach me: [Email](narendraprajapat4455@gmail.com) | [LinkedIn](www.linkedin.com/in/narendrakumar-174116313)
 
 ### Skills:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
